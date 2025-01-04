@@ -1,0 +1,2 @@
+# Enhancing-Business-Insights-Using-Predictive-Analytics-in-Retail
+This project leverages advanced predictive analytics to optimise decision-making in the retail sector by accurately forecasting weekly sales and identifying key drivers affecting sales performance. Combining EDA and Machine Learning models, the project uncovers patterns in historical sales data and predicts future trends effectively.
